@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Streban
 - 👀 I’m interested in Web development and Programming
-- 🌱 I’m currently learning Django and AWS
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-mateen-qazi-609460b2/
 
